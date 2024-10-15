@@ -1,0 +1,5 @@
+git clone-creates a copy of a remote repository in a new directory in ur local computer
+
+git add . --adds a change in the working directory to the stating area
+
+git push -u origin branch name--used to upload local repository to remote repository
